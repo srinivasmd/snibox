@@ -3,6 +3,7 @@
   "description": "Self-hosted snippet manager.",
   "website": "https://github.com/snibox/snibox",
   "repository": "https://github.com/snibox/snibox",
+  "stack": "heroku-18",
   "logo": "https://avatars3.githubusercontent.com/u/35972977",
   "success_url": "/register",
   "scripts": {
